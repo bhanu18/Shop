@@ -1,0 +1,16 @@
+orange 10.0
+
+meat 5.0
+
+egg 5.0
+
+lemon 4.0
+
+apple 4.0
+
+bread 500.0 
+
+grapes 1.0 
+
+ham 10.0 
+tea 1.47 
